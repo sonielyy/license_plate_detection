@@ -1,0 +1,45 @@
+# Veri seti yolu
+path: /Users/kayaa/PycharmProjects/PythonProject_NumberPlate/
+
+# Train data - val data
+train: images
+val: images
+
+names:
+  0: Araba
+  1: Plaka
+  2: 0
+  3: 1
+  4: 2
+  5: 3
+  6: 4
+  7: 5
+  8: 6
+  9: 7
+  10: 8
+  11: 9
+  12: A
+  13: B
+  14: C
+  15: D
+  16: E
+  17: F
+  18: G
+  19: H
+  20: I
+  21: J
+  22: K
+  23: L
+  24: M
+  25: N
+  26: O
+  27: P
+  28: R
+  29: S
+  30: T
+  31: U
+  32: V
+  33: Y
+  34: Z
+  35: W
+  36: X
