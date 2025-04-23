@@ -2,6 +2,8 @@
 
 This project is a license plate detection system for Turkish cars, built using the YOLOv8 object detection architecture.
 
+![image](https://github.com/user-attachments/assets/3cdd0608-22bd-446f-a49e-b87d27ee778b)
+
 ## 🔍 Purpose
 
 The aim of this project is to develop a system capable of detecting Turkish license plates using a YOLOv8-based model and to provide a foundational example for similar applications. This project is shared solely for **educational, research, and experimental** purposes.
@@ -13,6 +15,8 @@ The model was trained using images of cars and license plates obtained from vari
 > **Disclaimer:** Most of these images were publicly available and their copyright/licensing status was not clearly specified.  
 > None of the images used in training have been used for commercial or distribution purposes.  
 > This project is strictly for personal learning and research use. **The training dataset is not included** in this repository.
+
+![image](https://github.com/user-attachments/assets/bd757f2d-8bf8-4180-bb5b-03d6b803e922)
 
 ## ⚠️ Disclaimer
 
